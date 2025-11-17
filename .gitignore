@@ -1,0 +1,8 @@
+# Python
+env/
+venv/
+*.pyc
+__pycache__/
+
+# Gradio cache
+.gradio_cache/

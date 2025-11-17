@@ -1,0 +1,4 @@
+Input Video,Video Prediction,timestamp
+"{""video"": "".gradio\\flagged\\Input Video\\43ae47ad84bd89c34ec5\\WIN_20251103_14_05_54_Pro.mp4"", ""subtitles"": null}","{""label"": ""fake"", ""confidences"": [{""label"": ""fake"", ""confidence"": 0.7298189103603363}, {""label"": ""real"", ""confidence"": 0.2701810896396637}]}",2025-11-03 14:10:41.852515
+"{""video"": "".gradio\\flagged\\Input Video\\929bfb3f40534b90881b\\WIN_20251103_14_05_54_Pro.mp4"", ""subtitles"": null}","{""label"": ""fake"", ""confidences"": [{""label"": ""fake"", ""confidence"": 0.7298189103603363}, {""label"": ""real"", ""confidence"": 0.2701810896396637}]}",2025-11-03 14:10:49.591779
+"{""video"": "".gradio\\flagged\\Input Video\\f27e69cf0b13bde85ebd\\WIN_20251103_14_05_54_Pro.mp4"", ""subtitles"": null}","{""label"": ""real"", ""confidences"": [{""label"": ""real"", ""confidence"": 0.7}, {""label"": ""fake"", ""confidence"": 0.3}]}",2025-11-03 14:18:06.515626

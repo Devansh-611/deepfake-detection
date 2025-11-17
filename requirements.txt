@@ -1,0 +1,8 @@
+gradio
+Pillow
+facenet-pytorch
+torch
+numpy
+moviepy==1.0.3
+imageio-ffmpeg
+opencv-python
